@@ -32,6 +32,7 @@ Es importante aclarar que el enfoque de la capa bronce (la tabla final de snowfl
 5- La carpeta "4 - Scripts de sql para la capa oro" contiene los scripts de sql como se ejecutarían en snowflake y también su versión de bigquery (son los archivos nombrados al final _bigquery). En esta capa se toman las tablas de la capa plata y se les crea una llave surrogada a las dimensiones para que cuando sean referenciadas en la fact table, solo se necesite hacer un join simple entre foreign keys de la fact table y surrogate keys de las dimensiones creadas.
 
 Esto se eligió porque facilita las consultas (al solo tener que hacer join con una columna) y el crear surrogate keys en las dimensiones puede ayudar al almacenamiento de las mismas (por ejemplo, ciertas funcionalidades de la nube o tecnología de bases de datos permiten particionar la información de acuerdo a la columna con tipo de dato integer que menos se repita, que en este caso sería la surrogate key creada para las dimensiones).
+
 6- Los insights obtenidos mediante consultas se presentan en el power point "Presentación - Detalles Prueba.pptx" y sus consultas para obtener dichos resultados están guardadas en la carpeta "5 - Insights y reporte".
 
 Con gusto se puede profundizar en cualquiera de los puntos anteriormente mencionados en la llamada que se agendaría.
