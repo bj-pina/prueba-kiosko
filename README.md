@@ -6,7 +6,7 @@ para después construir una arquitectura con Azure, Snowflake y Airflow.
 
 En general, independientemente de las herramientas utilizadas, mi idea principal es construir una arquitectura que en líneas generales hará esto:
 
-1. Que los archivos csv sean cargados a un depósito abierto para los usuarios determinados donde puedan depositar sus archivos csv.
+1. Que los archivos csv sean cargados a un depósito abierto para los usuarios determinados donde puedan colocar sus archivos csv.
 2. Realizar un proceso de ingesta de datos cuyo resultado final sea una tabla en la capa bronce.
 3. Realizar una limpieza de datos y estandarización de nombres de columnas en la capa de plata.
 4. Consolidar las tablas de la capa de plata en un modelo de estrella en la capa oro.
