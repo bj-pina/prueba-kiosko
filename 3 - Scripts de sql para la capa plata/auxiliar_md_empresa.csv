@@ -1,0 +1,506 @@
+Name,Company Name,Country
+AAL,American Airlines Group Inc.,USA
+AAPL,Apple Inc.,USA
+AAP,Advance Auto Parts Inc.,USA
+ABBV,AbbVie Inc.,USA
+ABC,AmerisourceBergen Corporation,USA
+ABT,Abbott Laboratories,USA
+ACN,Accenture plc,Ireland
+ADBE,Adobe Inc.,USA
+ADI,"Analog Devices, Inc.",USA
+ADM,Archer-Daniels-Midland Company,USA
+ADP,"Automatic Data Processing, Inc.",USA
+ADSK,"Autodesk, Inc.",USA
+ADS,Alliance Data Systems Corporation,USA
+AEE,Ameren Corporation,USA
+AEP,"American Electric Power Company, Inc.",USA
+AES,The AES Corporation,USA
+AET,Aetna Inc.,USA
+AFL,Aflac Inc.,USA
+AGN,Allergan plc,USA
+AIG,"American International Group, Inc.",USA
+AIV,Apartment Investment and Management Company,USA
+AIZ,"Assurant, Inc.",USA
+AJG,Arthur J. Gallagher & Co.,USA
+AKAM,"Akamai Technologies, Inc.",USA
+ALB,Albemarle Corporation,USA
+ALGN,"Align Technology, Inc.",USA
+ALK,"Alaska Air Group, Inc.",USA
+ALLE,Allegion plc,Ireland
+ALL,The Allstate Corporation,USA
+ALXN,"Alexion Pharmaceuticals, Inc.",USA
+AMAT,"Applied Materials, Inc.",USA
+AMD,"Advanced Micro Devices, Inc.",USA
+AME,"AMETEK, Inc.",USA
+AMGN,Amgen Inc.,USA
+AMG,"Affiliated Managers Group, Inc.",USA
+AMP,"Ameriprise Financial, Inc.",USA
+AMT,American Tower Corporation,USA
+AMZN,"Amazon.com, Inc.",USA
+ANDV,Andeavor,USA
+ANSS,"ANSYS, Inc.",USA
+ANTM,"Anthem, Inc.",USA
+AON,Aon plc,Ireland
+AOS,A. O. Smith Corporation,USA
+APA,Apache Corporation,USA
+APC,Anadarko Petroleum Corporation,USA
+APD,"Air Products and Chemicals, Inc.",USA
+APH,Amphenol Corporation,USA
+APTV,Aptiv PLC,Ireland
+ARE,"Alexandria Real Estate Equities, Inc.",USA
+ARNC,Arconic Inc.,USA
+ATVI,"Activision Blizzard, Inc.",USA
+AVB,"AvalonBay Communities, Inc.",USA
+AVGO,Broadcom Inc.,USA
+AVY,Avery Dennison Corporation,USA
+AWK,"American Water Works Company, Inc.",USA
+AXP,American Express Company,USA
+AYI,"Acuity Brands, Inc.",USA
+AZO,"AutoZone, Inc.",USA
+A,"Agilent Technologies, Inc.",USA
+BAC,Bank of America Corporation,USA
+BAX,Baxter International Inc.,USA
+BA,The Boeing Company,USA
+BBT,BB&T Corporation,USA
+BBY,"Best Buy Co., Inc.",USA
+BDX,"Becton, Dickinson and Company",USA
+BEN,"Franklin Resources, Inc.",USA
+BF.B,Brown-Forman Corporation,USA
+BHF,"Brighthouse Financial, Inc.",USA
+BHGE,"Baker Hughes, a GE Company",USA
+BIIB,Biogen Inc.,USA
+BK,The Bank of New York Mellon Corporation,USA
+BLK,"BlackRock, Inc.",USA
+BLL,Ball Corporation,USA
+BMY,Bristol-Myers Squibb Company,USA
+BRK.B,Berkshire Hathaway Inc.,USA
+BSX,Boston Scientific Corporation,USA
+BWA,BorgWarner Inc.,USA
+BXP,"Boston Properties, Inc.",USA
+CAG,"Conagra Brands, Inc.",USA
+CAH,"Cardinal Health, Inc.",USA
+CAT,Caterpillar Inc.,USA
+CA,CA Technologies,USA
+CBG,"CBRE Group, Inc.",USA
+CBOE,"Cboe Global Markets, Inc.",USA
+CBS,CBS Corporation,USA
+CB,Chubb Limited,Switzerland
+CCI,Crown Castle International Corp.,USA
+CCL,Carnival Corporation & plc,USA
+CDNS,"Cadence Design Systems, Inc.",USA
+CELG,Celgene Corporation,USA
+CERN,Cerner Corporation,USA
+CFG,"Citizens Financial Group, Inc.",USA
+CF,"CF Industries Holdings, Inc.",USA
+CHD,"Church & Dwight Co., Inc.",USA
+CHK,Chesapeake Energy Corporation,USA
+CHRW,"C.H. Robinson Worldwide, Inc.",USA
+CHTR,"Charter Communications, Inc.",USA
+CINF,Cincinnati Financial Corporation,USA
+CI,Cigna Corporation,USA
+CLX,The Clorox Company,USA
+CL,Colgate-Palmolive Company,USA
+CMA,Comerica Incorporated,USA
+CMCSA,Comcast Corporation,USA
+CME,CME Group Inc.,USA
+CMG,"Chipotle Mexican Grill, Inc.",USA
+CMI,Cummins Inc.,USA
+CMS,CMS Energy Corporation,USA
+CNC,Centene Corporation,USA
+CNP,"CenterPoint Energy, Inc.",USA
+COF,Capital One Financial Corporation,USA
+COG,Cabot Oil & Gas Corporation,USA
+COL,"Rockwell Collins, Inc.",USA
+COO,"The Cooper Companies, Inc.",USA
+COP,ConocoPhillips,USA
+COST,Costco Wholesale Corporation,USA
+COTY,Coty Inc.,USA
+CPB,Campbell Soup Company,USA
+CRM,"Salesforce.com, Inc.",USA
+CSCO,"Cisco Systems, Inc.",USA
+CSRA,CSRA Inc.,USA
+CSX,CSX Corporation,USA
+CTAS,Cintas Corporation,USA
+CTL,"CenturyLink, Inc.",USA
+CTSH,Cognizant Technology Solutions Corporation,USA
+CTXS,"Citrix Systems, Inc.",USA
+CVS,CVS Health Corporation,USA
+CVX,Chevron Corporation,USA
+CXO,Concho Resources Inc.,USA
+C,Citigroup Inc.,USA
+DAL,"Delta Air Lines, Inc.",USA
+DE,Deere & Company,USA
+DFS,Discover Financial Services,USA
+DGX,Quest Diagnostics Incorporated,USA
+DG,Dollar General Corporation,USA
+DHI,"D.R. Horton, Inc.",USA
+DHR,Danaher Corporation,USA
+DISCA,"Discovery, Inc.",USA
+DISCK,"Discovery, Inc.",USA
+DISH,DISH Network Corporation,USA
+DIS,The Walt Disney Company,USA
+DLR,"Digital Realty Trust, Inc.",USA
+DLTR,"Dollar Tree, Inc.",USA
+DOV,Dover Corporation,USA
+DPS,"Dr Pepper Snapple Group, Inc.",USA
+DRE,Duke Realty Corporation,USA
+DRI,"Darden Restaurants, Inc.",USA
+DTE,DTE Energy Company,USA
+DUK,Duke Energy Corporation,USA
+DVA,DaVita Inc.,USA
+DVN,Devon Energy Corporation,USA
+DWDP,DowDuPont Inc.,USA
+DXC,DXC Technology Company,USA
+D,"Dominion Energy, Inc.",USA
+EA,Electronic Arts Inc.,USA
+EBAY,eBay Inc.,USA
+ECL,Ecolab Inc.,USA
+ED,"Consolidated Edison, Inc.",USA
+EFX,Equifax Inc.,USA
+EIX,Edison International,USA
+EL,The Estée Lauder Companies Inc.,USA
+EMN,Eastman Chemical Company,USA
+EMR,Emerson Electric Co.,USA
+EOG,"EOG Resources, Inc.",USA
+EQIX,"Equinix, Inc.",USA
+EQR,Equity Residential,USA
+EQT,EQT Corporation,USA
+ESRX,Express Scripts Holding Company,USA
+ESS,"Essex Property Trust, Inc.",USA
+ES,Eversource Energy,USA
+ETFC,E*TRADE Financial Corporation,USA
+ETN,Eaton Corporation plc,Ireland
+ETR,Entergy Corporation,USA
+EVHC,Envision Healthcare Corporation,USA
+EW,Edwards Lifesciences Corporation,USA
+EXC,Exelon Corporation,USA
+EXPD,"Expeditors International of Washington, Inc.",USA
+EXPE,"Expedia Group, Inc.",USA
+EXR,Extra Space Storage Inc.,USA
+FAST,Fastenal Company,USA
+FBHS,"Fortune Brands Home & Security, Inc.",USA
+FB,"Facebook, Inc.",USA
+FCX,Freeport-McMoRan Inc.,USA
+FDX,FedEx Corporation,USA
+FE,FirstEnergy Corp.,USA
+FFIV,"F5 Networks, Inc.",USA
+FISV,"Fiserv, Inc.",USA
+FIS,"Fidelity National Information Services, Inc.",USA
+FITB,Fifth Third Bancorp,USA
+FLIR,"FLIR Systems, Inc.",USA
+FLR,Fluor Corporation,USA
+FLS,Flowserve Corporation,USA
+FL,"Foot Locker, Inc.",USA
+FMC,FMC Corporation,USA
+FOXA,Fox Corporation,USA
+FOX,Fox Corporation,USA
+FRT,Federal Realty Investment Trust,USA
+FTI,TechnipFMC plc,UK
+FTV,Fortive Corporation,USA
+F,Ford Motor Company,USA
+GD,General Dynamics Corporation,USA
+GE,General Electric Company,USA
+GGP,GGP Inc.,USA
+GILD,"Gilead Sciences, Inc.",USA
+GIS,"General Mills, Inc.",USA
+GLW,Corning Incorporated,USA
+GM,General Motors Company,USA
+GOOGL,Alphabet Inc.,USA
+GOOG,Alphabet Inc.,USA
+GPC,Genuine Parts Company,USA
+GPN,Global Payments Inc.,USA
+GPS,"The Gap, Inc.",USA
+GRMN,Garmin Ltd.,Switzerland
+GS,"The Goldman Sachs Group, Inc.",USA
+GT,The Goodyear Tire & Rubber Company,USA
+GWW,"W.W. Grainger, Inc.",USA
+HAL,Halliburton Company,USA
+HAS,"Hasbro, Inc.",USA
+HBAN,Huntington Bancshares Incorporated,USA
+HBI,Hanesbrands Inc.,USA
+HCA,"HCA Healthcare, Inc.",USA
+HCN,Welltower Inc.,USA
+HCP,"HCP, Inc.",USA
+HD,"The Home Depot, Inc.",USA
+HES,Hess Corporation,USA
+HIG,"The Hartford Financial Services Group, Inc.",USA
+HII,"Huntington Ingalls Industries, Inc.",USA
+HLT,Hilton Worldwide Holdings Inc.,USA
+HOG,"Harley-Davidson, Inc.",USA
+HOLX,"Hologic, Inc.",USA
+HON,Honeywell International Inc.,USA
+HPE,Hewlett Packard Enterprise Company,USA
+HPQ,HP Inc.,USA
+HP,"Helmerich & Payne, Inc.",USA
+HRB,"H&R Block, Inc.",USA
+HRL,Hormel Foods Corporation,USA
+HRS,Harris Corporation,USA
+HSIC,"Henry Schein, Inc.",USA
+HST,"Host Hotels & Resorts, Inc.",USA
+HSY,The Hershey Company,USA
+HUM,Humana Inc.,USA
+IBM,International Business Machines Corporation,USA
+ICE,"Intercontinental Exchange, Inc.",USA
+IDXX,"IDEXX Laboratories, Inc.",USA
+IFF,International Flavors & Fragrances Inc.,USA
+ILMN,"Illumina, Inc.",USA
+INCY,Incyte Corporation,USA
+INFO,IHS Markit Ltd.,UK
+INTC,Intel Corporation,USA
+INTU,Intuit Inc.,USA
+IPG,"The Interpublic Group of Companies, Inc.",USA
+IP,International Paper Company,USA
+IQV,IQVIA Holdings Inc.,USA
+IRM,Iron Mountain Incorporated,USA
+IR,Ingersoll Rand Inc.,USA
+ISRG,"Intuitive Surgical, Inc.",USA
+ITW,Illinois Tool Works Inc.,USA
+IT,"Gartner, Inc.",USA
+IVZ,Invesco Ltd.,USA
+JBHT,"J.B. Hunt Transport Services, Inc.",USA
+JCI,Johnson Controls International plc,Ireland
+JEC,Jacobs Engineering Group Inc.,USA
+JNJ,Johnson & Johnson,USA
+JNPR,"Juniper Networks, Inc.",USA
+JPM,JPMorgan Chase & Co.,USA
+JWN,"Nordstrom, Inc.",USA
+KEY,KeyCorp,USA
+KHC,The Kraft Heinz Company,USA
+KIM,Kimco Realty Corporation,USA
+KLAC,KLA Corporation,USA
+KMB,Kimberly-Clark Corporation,USA
+KMI,"Kinder Morgan, Inc.",USA
+KMX,"CarMax, Inc.",USA
+KORS,Capri Holdings Limited,UK
+KO,The Coca-Cola Company,USA
+KR,The Kroger Co.,USA
+KSS,Kohl's Corporation,USA
+KSU,Kansas City Southern,USA
+K,Kellogg Company,USA
+LB,"L Brands, Inc.",USA
+LEG,"Leggett & Platt, Incorporated",USA
+LEN,Lennar Corporation,USA
+LH,Laboratory Corporation of America Holdings,USA
+LKQ,LKQ Corporation,USA
+LLL,"L3 Technologies, Inc.",USA
+LLY,Eli Lilly and Company,USA
+LMT,Lockheed Martin Corporation,USA
+LNC,Lincoln National Corporation,USA
+LNT,Alliant Energy Corporation,USA
+LOW,"Lowe's Companies, Inc.",USA
+LRCX,Lam Research Corporation,USA
+LUK,Leucadia National Corporation,USA
+LUV,Southwest Airlines Co.,USA
+LYB,LyondellBasell Industries N.V.,Netherlands
+L,Loews Corporation,USA
+MAA,"Mid-America Apartment Communities, Inc.",USA
+MAC,Macerich,USA
+MAR,"Marriott International, Inc.",USA
+MAS,Masco Corporation,USA
+MAT,"Mattel, Inc.",USA
+MA,Mastercard Incorporated,USA
+MCD,McDonald's Corporation,USA
+MCHP,Microchip Technology Incorporated,USA
+MCK,McKesson Corporation,USA
+MCO,Moody's Corporation,USA
+MDLZ,"Mondelez International, Inc.",USA
+MDT,Medtronic plc,Ireland
+MET,"MetLife, Inc.",USA
+MGM,MGM Resorts International,USA
+MHK,"Mohawk Industries, Inc.",USA
+MKC,"McCormick & Company, Incorporated",USA
+MLM,"Martin Marietta Materials, Inc.",USA
+MMC,"Marsh & McLennan Companies, Inc.",USA
+MMM,3M Company,USA
+MNST,Monster Beverage Corporation,USA
+MON,Monsanto Company,USA
+MOS,The Mosaic Company,USA
+MO,"Altria Group, Inc.",USA
+MPC,Marathon Petroleum Corporation,USA
+MRK,"Merck & Co., Inc.",USA
+MRO,Marathon Oil Corporation,USA
+MSFT,Microsoft Corporation,USA
+MSI,"Motorola Solutions, Inc.",USA
+MS,Morgan Stanley,USA
+MTB,M&T Bank Corporation,USA
+MTD,Mettler-Toledo International Inc.,USA
+MU,"Micron Technology, Inc.",USA
+MYL,Mylan N.V.,Netherlands
+M,"Macy's, Inc.",USA
+NAVI,Navient Corporation,USA
+NBL,"Noble Energy, Inc.",USA
+NCLH,Norwegian Cruise Line Holdings Ltd.,USA
+NDAQ,"Nasdaq, Inc.",USA
+NEE,"NextEra Energy, Inc.",USA
+NEM,Newmont Corporation,USA
+NFLX,"Netflix, Inc.",USA
+NFX,Newfield Exploration Company,USA
+NI,NiSource Inc.,USA
+NKE,"NIKE, Inc.",USA
+NLSN,Nielsen Holdings plc,UK
+NOC,Northrop Grumman Corporation,USA
+NOV,"National Oilwell Varco, Inc.",USA
+NRG,"NRG Energy, Inc.",USA
+NSC,Norfolk Southern Corporation,USA
+NTAP,"NetApp, Inc.",USA
+NTRS,Northern Trust Corporation,USA
+NUE,Nucor Corporation,USA
+NVDA,NVIDIA Corporation,USA
+NWL,Newell Brands Inc.,USA
+NWSA,News Corporation,USA
+NWS,News Corporation,USA
+OKE,"ONEOK, Inc.",USA
+OMC,Omnicom Group Inc.,USA
+ORCL,Oracle Corporation,USA
+ORLY,"O'Reilly Automotive, Inc.",USA
+OXY,Occidental Petroleum Corporation,USA
+O,Realty Income Corporation,USA
+PAYX,"Paychex, Inc.",USA
+PBCT,"People's United Financial, Inc.",USA
+PCAR,PACCAR Inc,USA
+PCG,PG&E Corporation,USA
+PCLN,The Priceline Group Inc.,USA
+PDCO,"Patterson Companies, Inc.",USA
+PEG,Public Service Enterprise Group Incorporated,USA
+PEP,"PepsiCo, Inc.",USA
+PFE,Pfizer Inc.,USA
+PFG,"Principal Financial Group, Inc.",USA
+PGR,The Progressive Corporation,USA
+PG,The Procter & Gamble Company,USA
+PHM,"PulteGroup, Inc.",USA
+PH,Parker-Hannifin Corporation,USA
+PKG,Packaging Corporation of America,USA
+PKI,"PerkinElmer, Inc.",USA
+PLD,"Prologis, Inc.",USA
+PM,Philip Morris International Inc.,USA
+PNC,"The PNC Financial Services Group, Inc.",USA
+PNR,Pentair plc,Ireland
+PNW,Pinnacle West Capital Corporation,USA
+PPG,"PPG Industries, Inc.",USA
+PPL,PPL Corporation,USA
+PRGO,Perrigo Company plc,Ireland
+PRU,"Prudential Financial, Inc.",USA
+PSA,Public Storage,USA
+PSX,Phillips 66,USA
+PVH,PVH Corp.,USA
+PWR,"Quanta Services, Inc.",USA
+PXD,Pioneer Natural Resources Company,USA
+PX,"Praxair, Inc.",USA
+PYPL,"PayPal Holdings, Inc.",USA
+QCOM,QUALCOMM Incorporated,USA
+QRVO,"Qorvo, Inc.",USA
+RCL,Royal Caribbean Cruises Ltd.,USA
+REGN,"Regeneron Pharmaceuticals, Inc.",USA
+REG,Regency Centers Corporation,USA
+RE,"Everest Re Group, Ltd.",Bermuda
+RF,Regions Financial Corporation,USA
+RHI,Robert Half International Inc.,USA
+RHT,"Red Hat, Inc.",USA
+RJF,"Raymond James Financial, Inc.",USA
+RL,Ralph Lauren Corporation,USA
+RMD,ResMed Inc.,USA
+ROK,"Rockwell Automation, Inc.",USA
+ROP,"Roper Technologies, Inc.",USA
+ROST,"Ross Stores, Inc.",USA
+RRC,Range Resources Corporation,USA
+RSG,"Republic Services, Inc.",USA
+RTN,Raytheon Company,USA
+SBAC,SBA Communications Corporation,USA
+SBUX,Starbucks Corporation,USA
+SCG,SCANA Corporation,USA
+SCHW,The Charles Schwab Corporation,USA
+SEE,Sealed Air Corporation,USA
+SHW,The Sherwin-Williams Company,USA
+SIG,Signet Jewelers Limited,Bermuda
+SJM,The J. M. Smucker Company,USA
+SLB,Schlumberger Limited,USA
+SLG,SL Green Realty Corp.,USA
+SNA,Snap-on Incorporated,USA
+SNI,"Scripps Networks Interactive, Inc.",USA
+SNPS,"Synopsys, Inc.",USA
+SO,The Southern Company,USA
+SPGI,S&P Global Inc.,USA
+SPG,"Simon Property Group, Inc.",USA
+SRCL,"Stericycle, Inc.",USA
+SRE,Sempra Energy,USA
+STI,"SunTrust Banks, Inc.",USA
+STT,State Street Corporation,USA
+STX,Seagate Technology plc,Ireland
+STZ,"Constellation Brands, Inc.",USA
+SWKS,"Skyworks Solutions, Inc.",USA
+SWK,"Stanley Black & Decker, Inc.",USA
+SYF,Synchrony Financial,USA
+SYK,Stryker Corporation,USA
+SYMC,Symantec Corporation,USA
+SYY,Sysco Corporation,USA
+TAP,Molson Coors Beverage Company,USA
+TDG,TransDigm Group Incorporated,USA
+TEL,TE Connectivity Ltd.,Switzerland
+TGT,Target Corporation,USA
+TIF,Tiffany & Co.,USA
+TJX,"The TJX Companies, Inc.",USA
+TMK,Torchmark Corporation,USA
+TMO,Thermo Fisher Scientific Inc.,USA
+TPR,"Tapestry, Inc.",USA
+TRIP,"Tripadvisor, Inc.",USA
+TROW,"T. Rowe Price Group, Inc.",USA
+TRV,"The Travelers Companies, Inc.",USA
+TSCO,Tractor Supply Company,USA
+TSN,"Tyson Foods, Inc.",USA
+TSS,"Total System Services, Inc.",USA
+TWX,Time Warner Inc.,USA
+TXN,Texas Instruments Incorporated,USA
+TXT,Textron Inc.,USA
+T,AT&T Inc.,USA
+UAA,"Under Armour, Inc.",USA
+UAL,"United Airlines Holdings, Inc.",USA
+UA,"Under Armour, Inc.",USA
+UDR,"UDR, Inc.",USA
+UHS,"Universal Health Services, Inc.",USA
+ULTA,"Ulta Beauty, Inc.",USA
+UNH,UnitedHealth Group Incorporated,USA
+UNM,Unum Group,USA
+UNP,Union Pacific Corporation,USA
+UPS,"United Parcel Service, Inc.",USA
+URI,"United Rentals, Inc.",USA
+USB,U.S. Bancorp,USA
+UTX,United Technologies Corporation,USA
+VAR,"Varian Medical Systems, Inc.",USA
+VFC,VF Corporation,USA
+VIAB,Viacom Inc.,USA
+VLO,Valero Energy Corporation,USA
+VMC,Vulcan Materials Company,USA
+VNO,Vornado Realty Trust,USA
+VRSK,"Verisk Analytics, Inc.",USA
+VRSN,"VeriSign, Inc.",USA
+VRTX,Vertex Pharmaceuticals Incorporated,USA
+VTR,"Ventas, Inc.",USA
+VZ,Verizon Communications Inc.,USA
+V,Visa Inc.,USA
+WAT,Waters Corporation,USA
+WBA,"Walgreens Boots Alliance, Inc.",USA
+WDC,Western Digital Corporation,USA
+WEC,"WEC Energy Group, Inc.",USA
+WFC,Wells Fargo & Company,USA
+WHR,Whirlpool Corporation,USA
+WLTW,Willis Towers Watson Public Limited Company,UK
+WMB,"The Williams Companies, Inc.",USA
+WMT,Walmart Inc.,USA
+WM,"Waste Management, Inc.",USA
+WRK,WestRock Company,USA
+WU,The Western Union Company,USA
+WYNN,"Wynn Resorts, Limited",USA
+WYN,Wyndham Worldwide Corporation,USA
+WY,Weyerhaeuser Company,USA
+XEC,Cimarex Energy Co.,USA
+XEL,Xcel Energy Inc.,USA
+XLNX,"Xilinx, Inc.",USA
+XL,XL Group Ltd,Bermuda
+XOM,Exxon Mobil Corporation,USA
+XRAY,Dentsply Sirona Inc.,USA
+XRX,Xerox Corporation,USA
+XYL,Xylem Inc.,USA
+YUM,"Yum! Brands, Inc.",USA
+ZBH,"Zimmer Biomet Holdings, Inc.",USA
+ZION,"Zions Bancorporation, N.A.",USA
+ZTS,Zoetis Inc.,USA
