@@ -13,3 +13,7 @@ En general, independientemente de las herramientas utilizadas, mi idea principal
 5. Construir los tableros de power bi empleando las tablas de la capa oro.
 
 Entonces, lo presentado en este repositorio será resultado de mi investigación de cómo lograr eso utilizando Azure, Snowflake y Airflow.
+
+Guía:
+
+1- 
